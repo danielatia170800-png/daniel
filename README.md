@@ -50,7 +50,7 @@
 
 <div class="product">
     <h1>שקע חכם אלחוטי 16A</h1>
-    <img class="product-img" src="path/to/your/uploaded/image.jpg" alt="שקע חכם">
+    <img class="product-img" src="1427ecf5-9bd7-4eca-8cf7-012588d840a5.jpg" alt="שקע חכם">
     <p class="description">
         השקע החכם שלנו מציע שליטה אלחוטית קלה ונוחה על כל מכשיר חשמלי. הפעל את המכשירים שלך מכל מקום ובזמן שנוח לך, הודות לחיבור ה-WiFi המתקדם. 
         מתאים לשימוש עם <strong>Google Assistant</strong> ו-<strong>Amazon Alexa</strong>.
